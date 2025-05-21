@@ -59,9 +59,9 @@ const members: Member[] = [
   {
     name: "Aaron Angeles",
     role: "Developer",
-    email: "names@example.com",
-    github: "name",
-    linkedin: "name",
+    email: "aav1391@dlsud.edu.ph",
+    github: "AaronVAngeles",
+    linkedin: "Aaron Carl Angeles",
     contributions: [
       "State management",
       "Performance optimization",
